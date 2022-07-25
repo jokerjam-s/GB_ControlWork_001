@@ -18,3 +18,8 @@
 
 ["Russia", "Denmark", "Kazan"] -> []
 
+---
+
+## Алгоритмы решения 
+
+!["Основной алгоритм"](/Images/Main.drawio.png "Main algorythm")
