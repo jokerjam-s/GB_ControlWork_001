@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T04:47:49.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.134 YaBrowser/22.7.1.806 Yowser/2.5 Safari/537.36" etag="B2Umy5KBi8gGTUBLYFo3" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T04:54:43.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.134 YaBrowser/22.7.1.806 Yowser/2.5 Safari/537.36" etag="3pR4XehvCRZu7u98ceEE" version="20.2.0" type="github">
   <diagram id="FddRzKQ67V2H22bVOV_2" name="Страница 1">
     <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
             <mxPoint x="420" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="343EDbTgbr2xeD1Sbd6I-3" value="string[] newArray = getNewArray(startArray, charLimit);" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="343EDbTgbr2xeD1Sbd6I-3" value="string[] newArray = getNewArray(startArray, charLimit);" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.041666666666666664;" vertex="1" parent="1">
           <mxGeometry x="300" y="220" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="343EDbTgbr2xeD1Sbd6I-8" value="КОНЕЦ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
