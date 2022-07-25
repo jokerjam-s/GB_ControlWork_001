@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T04:54:43.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.134 YaBrowser/22.7.1.806 Yowser/2.5 Safari/537.36" etag="3pR4XehvCRZu7u98ceEE" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T05:15:19.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.134 YaBrowser/22.7.1.806 Yowser/2.5 Safari/537.36" etag="wf-C31W98ed2PRdVE5Y-" version="20.2.0" type="github">
   <diagram id="FddRzKQ67V2H22bVOV_2" name="Страница 1">
     <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,9 +32,6 @@
         </mxCell>
         <mxCell id="343EDbTgbr2xeD1Sbd6I-10" value="printArray(startArray);&lt;br&gt;printArray(newArray);" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="320" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="343EDbTgbr2xeD1Sbd6I-14" value="&lt;h1&gt;Общее решение&lt;/h1&gt;&lt;p&gt;Согласно условия определим исходный массив строк. Длину искомых строк для формирования нового массива зададим константным значением.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Формирование нового массива и вывод&amp;nbsp; массивов пользователю произведем при помощи специально созданных методов.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="260" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
